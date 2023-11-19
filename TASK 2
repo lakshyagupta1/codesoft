@@ -157,12 +157,7 @@ def main():
     board =[[' ',' ',' '],
             [' ',' ',' '],
             [' ',' ',' ']]
-    board1=[['X','O',' '],
-            [' ','X','O'],
-            [' ',' ',' ']]
-    board2=[['X','O','X'],
-            ['O','X','O'],
-            ['O','X','O']]
+
     print('Welcome to TIC-TAC-TOE')
     printBoard(board)
     choice()
